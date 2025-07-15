@@ -1,0 +1,12 @@
+<Book>
+<C>
+  <author>Shirafkan</author>
+  <title>C++</title>
+  <price>60</price>
+</C>
+<C>
+ <author>Sara</author>
+  <title>Java</title>
+  <price>50</price>
+</C>
+</Book>
